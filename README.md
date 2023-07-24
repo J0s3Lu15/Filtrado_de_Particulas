@@ -22,3 +22,6 @@ Para ejecutar el programa:
 python filtrado_particulas.py
 ```
 Al ejecutar el programa, se inicializa el PacMan y el Fantasma, y se definen los parámetros de ruido para los movimientos y las mediciones. Luego, se realizan una serie de movimientos y mediciones simulados para el PacMan y el Fantasma. Durante cada iteración, se realiza el paso de previsión, seguido del paso de actualización (pesado y remuestreo) para las partículas de ambos robots.
+
+## Contactos:
+Si te gusta mi trabajo o estás buscando consultoría para tus proyectos, Pentesting, servicios de RED TEAM - BLUE TEAM, implementación de normas de seguridad e ISOs, controles IDS - IPS, gestión de SIEM, implementación de topologías de red seguras, entrenamiento e implementación de modelos de IA, desarrollo de sistemas, Apps Móviles, Diseño Gráfico, Marketing Digital y todo lo relacionado con la tecnología, no dudes en contactarme al +591 75764248 y con gusto trabajare contigo.
